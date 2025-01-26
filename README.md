@@ -2,7 +2,7 @@
 预览效果:[原地址](https://arunboy.github.io/love/) [我的地址](https://cnctem.github.io/love/)
 
 #如何使用：
-- fork
+- 克隆源代码
 - 编辑`index.htm`
 - 先把`cnctema`全部替换成对象的称呼
 - 再把`cnctem`全部替换成自己的称呼
